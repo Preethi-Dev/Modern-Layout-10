@@ -13,12 +13,12 @@ a {
 /* Fonts */
 @font-face {
   font-family: "PP Fraktion Sans Bold";
-  src: url(/assets/fonts/PPFraktionSans-Bold.otf);
+  src: url(./assets/fonts/PPFraktionSans-Bold.otf);
 }
 
 @font-face {
   font-family: "PP Fraktion Sans Light";
-  src: url(/assets/fonts/PPFraktionSans-Light.otf);
+  src: url(./assets/fonts/PPFraktionSans-Light.otf);
 }
 
 /* Variables */
